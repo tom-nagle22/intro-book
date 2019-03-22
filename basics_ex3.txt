@@ -1,0 +1,5 @@
+ movies = { et: 1982, raiders_of_lost_ark: 1981, avengers: 2012, rocky: 1976}
+ puts movies[:et]
+ puts movies[:raiders_of_lost_ark]
+ puts movies[:avengers]
+ puts movies[:rocky]
